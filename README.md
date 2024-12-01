@@ -18,7 +18,7 @@ User Authentication
 Log in or create an account to save your quiz results.
 Installation
 Clone the repository:
-git clone https://github.com/JonnyFinder/african-capitals-quiz.git
+git clone https://github.com/jonathanniwadev/QuestionApp.git
 Open the solution in Visual Studio.
 Build and run the project locally or deploy it to your Windows device.
 How to Play
